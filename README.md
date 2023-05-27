@@ -11,6 +11,9 @@ The dataset was picked up from Kaggle. This is a list of over 34,000 consumer re
 
 https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 
+
+# What i did
+
 Sentimental Analysis was done on the Reviews.rating column in which 1 and 2 reviews were considered Negative, 3 as Neutral and 4 and 5 were assigned to be Positive.
 Atlast, I applied Machine Learning Algorithms to see which gives the best accuracy out of all of them.
  The Algorithm Applied were:
